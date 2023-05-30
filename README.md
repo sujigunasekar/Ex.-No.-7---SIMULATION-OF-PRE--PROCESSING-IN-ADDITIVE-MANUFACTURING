@@ -46,7 +46,7 @@
 ## Output:
 ![image](https://github.com/sujigunasekar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559822/ce2538ea-b6d4-4441-8596-0df2630633a4)
 
-### Name:G.SUji
+### Name:Suji.G
 ### Register Number:212222230152
 
 ## Result: 
